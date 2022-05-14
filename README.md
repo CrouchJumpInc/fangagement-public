@@ -2,7 +2,7 @@
 
 ## Beta Testing
 
-To gain access to the Fangagement Crouchjump beta app, you will need to have sent us a valid email address that you want to use in the app, and an invite sent to you from us for the beta versions of the app.
+To gain access to the Fangagement Crouchjump beta app, you will need to have sent us a valid email address that you want to use in the app, and an invite sent to you from us for the beta version of the app.
 
 ### Downloading on IOS
 
@@ -14,7 +14,11 @@ To use the app on Android, you will need to open the invite email on your mobile
 
 ### Registering a Crouchjump Account
 
-After opening the app you can register by pressing the "Sign Up" button. After filling out your account information and submitting (Make sure the email you sign up with is the one you provided us with originally), you will be sent a verification email to the email you specified in the registration form. Pressing the link in the email will take you back to the app and you will be logged in now.
+After opening the app you can register by pressing the "Sign Up" button. After filling out your account information and submitting (Make sure the email you sign up with is the one you provided us with originally), you will be sent a verification email to the email you specified in the registration form. Pressing the link in the email will take you back to the app and you will be logged in automatically.
+
+### Testing The App
+
+When beta testing the app, there is not normally going to be a list of things that need testing, and testing should amount to doing your best to engage with the content on the app frequently. On occasion we may ask testers to test a specific feature if something major has changed, or if an issue you reported has possibly been resolved.
 
 ### Reporting Issues
 
