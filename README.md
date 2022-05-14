@@ -18,4 +18,8 @@ After opening the app you can register by pressing the "Sign Up" button. After f
 
 ### Reporting Issues
 
-If while using the app you notice any bugs or UI issues you can report them here on this Github repository by navigating to the Issues tab, and creating a new Issue.
+If while using the app you notice any bugs or UI issues you can report them here on this Github repository by navigating to the Issues tab, and creating a new issue.
+
+A reported issue should include as much information as you can provide in order for us to be able to reproduce it so that we can resolve it. If the issue is a graphical/UI issue then please make sure to provide a screenshot or recording of the problem.
+
+Before submitting an issue, please scan through the existing issues and make sure that the issue that you are reporting is not a duplicate, and if it is then click the details for that issue and add any additional information if you have any, or just leave a comment stating that you are also seeing this issue.
